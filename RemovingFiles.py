@@ -19,7 +19,7 @@ def program():
 
 	
 
-	days = 2
+	days = 30
 	listFiles=os.listdir()
 
 	
